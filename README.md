@@ -1,2 +1,2 @@
 # go-todo
-Handling concurrency
+handling API traffic with concerrency
